@@ -1,0 +1,12 @@
+%username%123
+%username%123456 
+%username%520
+%username%521 
+%username%aini
+%username%5201314 
+%username%321
+%username%@123
+%username%66
+%username%666
+%username%88
+%username%888
