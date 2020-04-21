@@ -18,7 +18,10 @@
 %domain%@2014 
 %domain%@2015   
 %domain%@2016
-%domain%@2017
+%domain%@2017 
+%domain%@2018
+%domain%@2019
+%domain%@2020
 %domain%1q2w3e 
 %domain%@1q2w3ew 
 %domain%1
@@ -45,7 +48,10 @@
 %domain%2014
 %domain%2015
 %domain%2016  
-%domain%2017  
+%domain%2017   
+%domain%2018
+%domain%2019
+%domain%2020 
 %domain%_2008
 %domain%_2009 
 %domain%_2010
@@ -55,7 +61,10 @@
 %domain%_2014
 %domain%_2015
 %domain%_2016 
-%domain%_2017
+%domain%_2017 
+%domain%_2018
+%domain%_2019
+%domain%_2020
 %domain%321
 %domain%@123 
 %domain%!@#
